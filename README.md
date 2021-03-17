@@ -1,4 +1,4 @@
-### React Consult Users##
+### React Consult Users ###
 
 Exercice simple React + Redux afin de comprendre les actions et reducers
 
